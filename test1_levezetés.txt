@@ -1,0 +1,58 @@
+1 4 5 2 3 4 5 4 6 4 3 2 1 3 4 2 1 2 3 6 3 2 1 2 1 1 2 4 3 2 2 3 2 1 1 4 5
+(37 dobókocka dobás)
+
+-- Pálya --
+1 property
+2 service 3000
+3 luck 400
+4 property
+5 service 2700
+6 luck 200
+7 property
+8 service 2900
+9 luck 500
+10 property
+
+-- Játékosok --
+James greedy
+Hannah careful
+Arthur tactician
+
+-- Játék elvárt menete --
+1 James vesz egy ingatlant (9000)
+4 Hannah fizet 2700-at (7300)
+5 Arthur vesz egy ingatlant (9000)
+2 James fizet 3000-et (6000)
+3 Hannah fizet 2700-at (4600)
+4 Arthur 500-as szerencsemezőre lépett (9500)
+5 James vesz egy ingatlant (5000)
+4 Hannah fizet 2900-at (1700)
+6 Arthur más ingatlanjánál járt (9000)
+4 James fizet 2900-at (2600)
+3 Hannah más ingatlanjánál járt (1200)
+2 Arthur 400-as szerencsemezőre lépett (9400)
+1 James saját ingatlanra lépett
+3 Hannah saját ingatlanra lépett
+4 Arthur más ingatlanjára lépett (8900)
+2 James 400-as szerencsemezőre lépett (4000)
+1 Hannah más ingatlanjára lépett (700)
+2 Arthur 200-as szerencsemezőre lépett (9100)
+3 James 500-as szerencsemezőre lépett (5000)
+6 Hannah nem tudott fizetni! Kiesett!
+3 Arthur fizet 2900-at (6200)
+2 James más ingatlanjára lépett (4500)
+1 Arthur más ingatlanjára lépett (6200)
+2 James 400-as szerencsemezőre lépett (5400)
+1 Arthur más ingatlanjára lépett (5700)
+1 James fizet 2700-at (3200)
+2 Arthur más ingatlanjára lépett (5200)
+4 James 200-as szerencsemezőre lépett (3900)
+3 Arthur fizet 2900-at (2300)
+2 James saját ingatlanra lépett
+2 Arthur 400-as szerencsemezőre lépett (2700)
+3 James saját ingatlanra lépett
+2 Arthur 2700-at fizet (0)
+1 James saját ingatlanra lépett
+1 Arthur saját ingatlanra lépett
+4 James 500-as szerencsemezőre lépett (4400)
+5 Arthur nem tudott fizetni! Kiesett!

@@ -1,0 +1,15 @@
+10
+property
+service 3000
+luck 400
+property
+service 2700
+luck 200
+property
+service 2900
+luck 500
+property
+3
+James happy
+Hannah careful
+Arthur tactician

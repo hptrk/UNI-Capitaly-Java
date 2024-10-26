@@ -1,0 +1,27 @@
+20
+property
+service 500
+luck 400
+property
+service 300
+luck 200
+property
+service 600
+luck 1000
+property
+property
+service 500
+luck 400
+property
+service 300
+luck 200
+property
+service 600
+luck 1000
+property
+5
+James greedy
+Hannah careful
+Arthur tactician
+Muci careful
+Patyi greedy

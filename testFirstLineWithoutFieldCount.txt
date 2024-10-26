@@ -1,0 +1,15 @@
+property
+service 3000
+luck 400
+property
+service 2700
+luck 200
+property
+service 2900
+luck 500
+property
+3
+James greedy
+Hannah careful
+Arthur tactician
+1 4 5 2 3 4 5 4 6 4 3 2 1 3 4 2 1 2 3 6 3 2 1 2 1 1 2 4 3 2 2 3 2 1 1 4 5
