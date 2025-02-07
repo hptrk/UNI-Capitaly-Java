@@ -19,6 +19,7 @@ This project was developed as a **university assignment**, focusing on creating 
 ## 📚 Detailed Documentation
 
 There is a detailed documentation included with a detailed tour to understand the code.
+![UML Diagram](UML_diagram.png)
 
 ---
 
